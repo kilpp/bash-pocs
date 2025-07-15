@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Encurtador de URL em Shell-Bash Script
-# Autor: Manus AI
-# Versão: 1.0
-
 # Configurações
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 DB_FILE="$SCRIPT_DIR/urls.db"
